@@ -1,0 +1,5 @@
+x=input(" Enter Principal: ")
+y=input(" Enter Rate%: ")
+z=input(" Enter Time years: ")
+I=int(x)*int(y)*int(z)
+print("Interest=", I/100)
